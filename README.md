@@ -15,4 +15,5 @@ Cyber Seguridad
 analisis de datos
 analisis de datos avanzado
 *proyecto tabla periodica*
+Inteligencia empresarial de google
 Gestion de proyectos
